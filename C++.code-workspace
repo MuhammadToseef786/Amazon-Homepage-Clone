@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"name": "C++",
+			"path": "../../../C++"
+		},
+		{
+			"name": "HTML Tutorial",
+			"path": "../.."
+		},
+		{
+			"name": "Java Script",
+			"path": "../../../Java Script"
+		},
+		{
+			"path": "../../../Front-End"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Front-End"
+	}
+}
